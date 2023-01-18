@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/121618341/213128439-f431673a-f6f8-4ab6
 * Office 2016 (or later)
 * An http server (optional, only required for remote delivery of VSTO)
 ​
-## Notes:
+## Description:
 ​
 The POC contains 2 components - a "loader" component and a "persist" persist component, which can be executed and installed either locally or remotely depending on how you build them.
 
