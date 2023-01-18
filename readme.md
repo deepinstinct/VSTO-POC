@@ -44,7 +44,7 @@ In order to avoid easy weaponization of this POC, it's components are not signed
 
 If you intend on using this POC in remote fashion in your own environment please add your delivering http server to your executing machine's trusted intranet sites via Windows Internet Options or establish trust via the Windows Certificate Store.
 ​
-## Disclamer:
+## Disclaimer:
 ​
 The code provided is offered as-is and is intended for educational or informational purposes only. The user assumes all responsibility for the use of this code and any consequences that may arise from its use. The creator of this code and its affiliates cannot be held liable for any damages or losses resulting from the use of this code
 ​
