@@ -3,7 +3,8 @@
 This is a proof-of-concept created for academic/learning purposes, demonstrating both local and remote use of VSTO "Add-In's".
 ​
 
-<<< VIDEO/GIF HERE? >>>
+https://user-images.githubusercontent.com/121618341/213128439-f431673a-f6f8-4ab6-88e0-1c1541f98886.mp4
+
 ​
 ## Requirements:
 * Visual Studio
