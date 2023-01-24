@@ -3,7 +3,7 @@
 This is a proof-of-concept created for academic/learning purposes, demonstrating both local and remote use of VSTO "Add-In's".
 ​
 
-https://user-images.githubusercontent.com/121618341/214391220-dc6675c9-53a8-42c0-98fe-2310e2a78da2.mp4
+https://user-images.githubusercontent.com/121618341/214397851-42e7d622-2f49-4486-bd02-f3eba3db8db2.mp4
 
 ​
 ## Requirements:
