@@ -1,6 +1,7 @@
 # Visual Studio Tools For Office (VSTO) POC
 ​
 This is a proof-of-concept created for academic/learning purposes, demonstrating both local and remote use of VSTO "Add-In's".
+VSTO is a software development toolset, VSTO is available in Microsoft’s Visual Studio IDE. It enables Office Add-In’s (a type of Office application extension) to be developed in .NET and also allows for Office documents to be created that will deliver and execute these Add-In’s. 
 ​
 
 https://user-images.githubusercontent.com/121618341/214397851-42e7d622-2f49-4486-bd02-f3eba3db8db2.mp4
@@ -13,8 +14,9 @@ https://user-images.githubusercontent.com/121618341/214397851-42e7d622-2f49-4486
 ​
 ## Description:
 ​
-The POC contains 2 components - a "loader" component and a "persist" persist component, which can be executed and installed either locally or remotely depending on how you build them.
+The POC contains 2 components - a "loader" component and a "persist" component, which can be executed and installed either locally or remotely.
 
+## Compile and usage:
 Simply copy-paste the code into the appropriate type of Visual Studio project and edit as you require.
 ​
 ### "Loader"
