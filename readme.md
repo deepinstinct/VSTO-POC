@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/121618341/214397851-42e7d622-2f49-4486
 The POC contains 2 components - a "loader" component and a "persist" component, which can be executed and installed either locally or remotely.
 
 ## Compile and usage:
-Simply copy-paste the code into the appropriate type of Visual Studio project and edit as you require.
+Simply copy-paste the code into the appropriate type of Visual Studio project, edit as you require and compile.
 ​
 ### "Loader"
 ​
