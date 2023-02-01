@@ -3,7 +3,7 @@
 This is a proof-of-concept created for academic/learning purposes, demonstrating both local and remote use of VSTO "Add-In's". 
 VSTO is a software development toolset, VSTO is available in Microsoft’s Visual Studio IDE. It enables Office Add-In’s (a type of Office application extension) to be developed in .NET and also allows for Office documents to be created that will deliver and execute these Add-In’s. 
 
-More information can be found in the Blog
+More information and high resolution video can be found in the full blog:
 https://www.deepinstinct.com/blog/no-macro-no-worries-vsto-being-weaponized-by-threat-actors
 
 ​
